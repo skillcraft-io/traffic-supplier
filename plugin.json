@@ -1,0 +1,11 @@
+{
+    "id": "wtroiano/traffic-supplier",
+    "name": "Traffic Supplier",
+    "namespace": "WTroiano\\TrafficSupplier\\",
+    "provider": "WTroiano\\TrafficSupplier\\Providers\\TrafficSupplierServiceProvider",
+    "author": "William Troiano",
+    "url": "https://williamtroiano.dev",
+    "version": "1.0.0",
+    "description": "Management of traffic supplier accounts.",
+    "minimum_core_version": "7.4.5"
+}
